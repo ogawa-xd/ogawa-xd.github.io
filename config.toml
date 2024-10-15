@@ -1,0 +1,17 @@
+baseURL = "https://ogawa-xd/ogawa-xd.github.io/"
+languageCode = "ja"
+title = "My Hugo Blog"
+theme = "docsy"
+
+[params]
+  sidebar = true  # サイドバーを有効化
+
+[[menu.main]]
+name = "ホーム"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "ブログ"
+url = "/blog/"
+weight = 2

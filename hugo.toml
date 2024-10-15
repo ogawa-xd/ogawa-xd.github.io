@@ -1,0 +1,4 @@
+baseURL = 'https://ogawa-xd/ogawa-xd.github.io/'
+languageCode = 'ja'
+title = 'My New Hugo Site'
+theme = 'docsy'
